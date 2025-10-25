@@ -44,7 +44,6 @@ Turn your Android 11+ phone into an IP camera that streams via MJPEG protocol, v
 ### Alternative Viewing Methods
 
 **Browser (Chrome/Firefox):**
-```
 http://192.168.1.100:8080/video
 ```
 
