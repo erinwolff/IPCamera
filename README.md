@@ -40,10 +40,13 @@ Turn your Android 11+ phone into an IP camera that streams via MJPEG protocol, v
    - Go to Media → Open Network Stream
    - Enter the URL shown in the app (e.g., `http://192.168.1.100:8080/video`)
    - Click "Play"
+```
 
 ### Alternative Viewing Methods
 
+
 **Browser (Chrome/Firefox):**
+```
 http://192.168.1.100:8080/video
 ```
 
