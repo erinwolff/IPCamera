@@ -1,0 +1,21 @@
+// Top-level build file compatible with Gradle 8.5+ and Java 21
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.2.0'
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.layout.buildDirectory
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
